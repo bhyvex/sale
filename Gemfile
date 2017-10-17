@@ -12,7 +12,5 @@ gem "middleman-minify-html", "~> 3.4"
 gem "neat", "~> 2.1"
 gem "rake", "~> 12.0"
 gem "redcarpet", "~> 3.4"
-# gem "sass", "~> 3.4"
-
-gem "middleman-sprockets", "= 4.0.0.rc.1"
+gem "middleman-sprockets", "~> 4.1.1"
 gem "sassc", "~> 1.11"
